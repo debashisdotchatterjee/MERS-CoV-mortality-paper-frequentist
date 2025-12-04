@@ -23,7 +23,7 @@ Both components reproduce the tables and figures used in the manuscript.
 
 ## Repository structure
 
-A suggested (and typical) organisation is:
+
 
 ```text
 .
@@ -39,4 +39,4 @@ A suggested (and typical) organisation is:
 │   └── models/                        # Saved fitted model objects (.rds)
 ├── mers_real_results.zip              # Zipped bundle of real-data output (created by the script)
 ├── README.md
-└── (optionally) LICENSE
+└──  LICENSE
